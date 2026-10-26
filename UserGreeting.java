@@ -10,4 +10,4 @@ public class UserGreeting {
         System.out.println("Hello, " + userName + "!");
         scanner.close();
     }
-}
+}   
